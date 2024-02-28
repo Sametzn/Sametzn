@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
 <h3 align="center">Self-improving Programmer</h3>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
-<img src="https://komarev.com/ghpvc/?username=hanzelkaraagac&&style=plastics&&color=yellow" align="right"/> </p>
 
 
 - 📫 How to reach me **smet.tzn@gmail.com**
