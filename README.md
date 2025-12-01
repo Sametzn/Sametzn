@@ -11,10 +11,10 @@
 <a href="https://instagram.com/_sametzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sametzn" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🚀 Languages and Tools</h3>
+<h2 align="left"> Languages and Tools</h2>
 
 <!-- Programming Languages -->
-<h4>🧩 Programming Languages</h4>
+<h3> Programming Languages</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
@@ -25,7 +25,7 @@
 </p>
 
 <!-- DevOps -->
-<h4>⚙️ DevOps & Tools</h4>
+<h3> DevOps & Tools</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
@@ -33,7 +33,7 @@
 </p>
 
 <!-- Frontend -->
-<h4>🎨 Frontend Development</h4>
+<h3>Frontend Development</h3>
 <p align="left">
   <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
@@ -42,7 +42,7 @@
 </p>
 
 <!-- Backend -->
-<h4>🛠️ Backend Development</h4>
+<h3> Backend Development</h3>
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
@@ -50,7 +50,7 @@
 </p>
 
 <!-- Database & Algorithms -->
-<h4>🗄️ Database & Algorithms</h4>
+<h3> Database & Algorithms</h3>
 <p align="left">
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
