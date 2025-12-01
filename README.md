@@ -11,7 +11,7 @@
 <a href="https://instagram.com/_sametzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sametzn" height="30" width="40" /></a>
 </p>
 
-<h2 align="left"> Languages and Tools</h2>
+<h2 align="left"> Languages and Tools:</h2>
 
 <!-- Programming Languages -->
 <h3> Programming Languages</h3>
