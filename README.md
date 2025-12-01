@@ -68,24 +68,5 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
 
-<!-- Stats -->
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sametzn&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sametzn&show_icons=true&locale=en" />
-</p>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
-
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
-
-
-
-
 
 
