@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
-<h3 align="center">Junior Software Developer</h3>
+<h3 align="center">Mobile and Web Software Developer</h3>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 
 
