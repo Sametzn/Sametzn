@@ -56,14 +56,6 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
-<!-- Stats -->
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sametzn&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sametzn&show_icons=true&locale=en" />
-</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
