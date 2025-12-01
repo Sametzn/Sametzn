@@ -3,7 +3,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 
 
-- 📫 How to reach me **smet.tzn@gmail.com**
+- 📫 How to reach me **sametzn0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
